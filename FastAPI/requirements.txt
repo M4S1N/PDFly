@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+PyMuPDF
+slowapi
+loguru
+pydantic-settings
+pdf2docx
+googletrans==4.0.0rc1
